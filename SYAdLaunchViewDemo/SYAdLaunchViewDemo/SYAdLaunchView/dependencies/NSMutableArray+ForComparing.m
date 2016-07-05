@@ -16,7 +16,7 @@
 
 /**比较两个数组中的内容是否完全一致*/
 +(BOOL) isThisEqual:(NSMutableArray *) arrA to:(NSMutableArray *) arrB{
-    BOOL bol;
+    BOOL bol=NO;
     
     
     
@@ -44,7 +44,7 @@
     
     if (newArr.count == oldArr.count) {
         
-        bol = true;
+        bol = YES;
         for (int16_t i = 0; i < oldArr.count; i++) {
             
             id c1 = [oldArr objectAtIndex:i];
@@ -52,7 +52,7 @@
             id newc = [newArr objectAtIndex:i];
             
             if (![newc isEqualToString:c1]) {
-                bol = false;
+                bol = NO;
                 break;
             }
         }

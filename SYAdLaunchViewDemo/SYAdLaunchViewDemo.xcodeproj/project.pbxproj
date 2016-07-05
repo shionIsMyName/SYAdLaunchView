@@ -11,18 +11,18 @@
 		A51BF9E11D24B24A00B9C0F7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A51BF9E01D24B24A00B9C0F7 /* AppDelegate.m */; };
 		A51BF9E41D24B24A00B9C0F7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A51BF9E31D24B24A00B9C0F7 /* ViewController.m */; };
 		A51BF9E91D24B24A00B9C0F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A51BF9E81D24B24A00B9C0F7 /* Assets.xcassets */; };
-		A53C1E3D1D2BF3B600FA0460 /* NSData+SDDataCache.m in Sources */ = {isa = PBXBuildFile; fileRef = A53C1E251D2BF3B600FA0460 /* NSData+SDDataCache.m */; };
-		A53C1E3E1D2BF3B600FA0460 /* NSMutableArray+ForComparing.m in Sources */ = {isa = PBXBuildFile; fileRef = A53C1E271D2BF3B600FA0460 /* NSMutableArray+ForComparing.m */; };
-		A53C1E3F1D2BF3B600FA0460 /* NSObject+SandboxOps.m in Sources */ = {isa = PBXBuildFile; fileRef = A53C1E291D2BF3B600FA0460 /* NSObject+SandboxOps.m */; };
-		A53C1E401D2BF3B600FA0460 /* TAAbstractDotView.m in Sources */ = {isa = PBXBuildFile; fileRef = A53C1E2C1D2BF3B600FA0460 /* TAAbstractDotView.m */; };
-		A53C1E411D2BF3B600FA0460 /* TAAnimatedDotView.m in Sources */ = {isa = PBXBuildFile; fileRef = A53C1E2E1D2BF3B600FA0460 /* TAAnimatedDotView.m */; };
-		A53C1E421D2BF3B600FA0460 /* TADotView.m in Sources */ = {isa = PBXBuildFile; fileRef = A53C1E301D2BF3B600FA0460 /* TADotView.m */; };
-		A53C1E431D2BF3B600FA0460 /* TAPageControl.m in Sources */ = {isa = PBXBuildFile; fileRef = A53C1E321D2BF3B600FA0460 /* TAPageControl.m */; };
-		A53C1E441D2BF3B600FA0460 /* SDCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A53C1E341D2BF3B600FA0460 /* SDCollectionViewCell.m */; };
-		A53C1E451D2BF3B600FA0460 /* SDCycleScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = A53C1E361D2BF3B600FA0460 /* SDCycleScrollView.m */; };
-		A53C1E461D2BF3B600FA0460 /* UIView+SDExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = A53C1E381D2BF3B600FA0460 /* UIView+SDExtension.m */; };
-		A53C1E471D2BF3B600FA0460 /* SYAdLaunchView.m in Sources */ = {isa = PBXBuildFile; fileRef = A53C1E3A1D2BF3B600FA0460 /* SYAdLaunchView.m */; };
-		A53C1E481D2BF3B600FA0460 /* SYAdLaunchViewManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A53C1E3C1D2BF3B600FA0460 /* SYAdLaunchViewManager.m */; };
+		A574E1591D2BF7BE00D53CD5 /* NSData+SDDataCache.m in Sources */ = {isa = PBXBuildFile; fileRef = A574E1411D2BF7BE00D53CD5 /* NSData+SDDataCache.m */; };
+		A574E15A1D2BF7BE00D53CD5 /* NSMutableArray+ForComparing.m in Sources */ = {isa = PBXBuildFile; fileRef = A574E1431D2BF7BE00D53CD5 /* NSMutableArray+ForComparing.m */; };
+		A574E15B1D2BF7BE00D53CD5 /* NSObject+SandboxOps.m in Sources */ = {isa = PBXBuildFile; fileRef = A574E1451D2BF7BE00D53CD5 /* NSObject+SandboxOps.m */; };
+		A574E15C1D2BF7BE00D53CD5 /* TAAbstractDotView.m in Sources */ = {isa = PBXBuildFile; fileRef = A574E1481D2BF7BE00D53CD5 /* TAAbstractDotView.m */; };
+		A574E15D1D2BF7BE00D53CD5 /* TAAnimatedDotView.m in Sources */ = {isa = PBXBuildFile; fileRef = A574E14A1D2BF7BE00D53CD5 /* TAAnimatedDotView.m */; };
+		A574E15E1D2BF7BE00D53CD5 /* TADotView.m in Sources */ = {isa = PBXBuildFile; fileRef = A574E14C1D2BF7BE00D53CD5 /* TADotView.m */; };
+		A574E15F1D2BF7BE00D53CD5 /* TAPageControl.m in Sources */ = {isa = PBXBuildFile; fileRef = A574E14E1D2BF7BE00D53CD5 /* TAPageControl.m */; };
+		A574E1601D2BF7BE00D53CD5 /* SDCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A574E1501D2BF7BE00D53CD5 /* SDCollectionViewCell.m */; };
+		A574E1611D2BF7BE00D53CD5 /* SDCycleScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = A574E1521D2BF7BE00D53CD5 /* SDCycleScrollView.m */; };
+		A574E1621D2BF7BE00D53CD5 /* SYAdLaunchView.m in Sources */ = {isa = PBXBuildFile; fileRef = A574E1541D2BF7BE00D53CD5 /* SYAdLaunchView.m */; };
+		A574E1631D2BF7BE00D53CD5 /* UIView+SDExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = A574E1561D2BF7BE00D53CD5 /* UIView+SDExtension.m */; };
+		A574E1641D2BF7BE00D53CD5 /* SYAdLaunchViewManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A574E1581D2BF7BE00D53CD5 /* SYAdLaunchViewManager.m */; };
 		A5D4559D1D2B4C3E003D04A0 /* SYAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A5D4559C1D2B4C3E003D04A0 /* SYAppDelegate.m */; };
 /* End PBXBuildFile section */
 
@@ -35,30 +35,30 @@
 		A51BF9E31D24B24A00B9C0F7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		A51BF9E81D24B24A00B9C0F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A51BF9ED1D24B24A00B9C0F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A53C1E241D2BF3B600FA0460 /* NSData+SDDataCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+SDDataCache.h"; sourceTree = "<group>"; };
-		A53C1E251D2BF3B600FA0460 /* NSData+SDDataCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+SDDataCache.m"; sourceTree = "<group>"; };
-		A53C1E261D2BF3B600FA0460 /* NSMutableArray+ForComparing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableArray+ForComparing.h"; sourceTree = "<group>"; };
-		A53C1E271D2BF3B600FA0460 /* NSMutableArray+ForComparing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableArray+ForComparing.m"; sourceTree = "<group>"; };
-		A53C1E281D2BF3B600FA0460 /* NSObject+SandboxOps.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+SandboxOps.h"; sourceTree = "<group>"; };
-		A53C1E291D2BF3B600FA0460 /* NSObject+SandboxOps.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SandboxOps.m"; sourceTree = "<group>"; };
-		A53C1E2B1D2BF3B600FA0460 /* TAAbstractDotView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAAbstractDotView.h; sourceTree = "<group>"; };
-		A53C1E2C1D2BF3B600FA0460 /* TAAbstractDotView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAAbstractDotView.m; sourceTree = "<group>"; };
-		A53C1E2D1D2BF3B600FA0460 /* TAAnimatedDotView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAAnimatedDotView.h; sourceTree = "<group>"; };
-		A53C1E2E1D2BF3B600FA0460 /* TAAnimatedDotView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAAnimatedDotView.m; sourceTree = "<group>"; };
-		A53C1E2F1D2BF3B600FA0460 /* TADotView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TADotView.h; sourceTree = "<group>"; };
-		A53C1E301D2BF3B600FA0460 /* TADotView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TADotView.m; sourceTree = "<group>"; };
-		A53C1E311D2BF3B600FA0460 /* TAPageControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAPageControl.h; sourceTree = "<group>"; };
-		A53C1E321D2BF3B600FA0460 /* TAPageControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAPageControl.m; sourceTree = "<group>"; };
-		A53C1E331D2BF3B600FA0460 /* SDCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDCollectionViewCell.h; sourceTree = "<group>"; };
-		A53C1E341D2BF3B600FA0460 /* SDCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDCollectionViewCell.m; sourceTree = "<group>"; };
-		A53C1E351D2BF3B600FA0460 /* SDCycleScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDCycleScrollView.h; sourceTree = "<group>"; };
-		A53C1E361D2BF3B600FA0460 /* SDCycleScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDCycleScrollView.m; sourceTree = "<group>"; };
-		A53C1E371D2BF3B600FA0460 /* UIView+SDExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+SDExtension.h"; sourceTree = "<group>"; };
-		A53C1E381D2BF3B600FA0460 /* UIView+SDExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+SDExtension.m"; sourceTree = "<group>"; };
-		A53C1E391D2BF3B600FA0460 /* SYAdLaunchView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SYAdLaunchView.h; sourceTree = "<group>"; };
-		A53C1E3A1D2BF3B600FA0460 /* SYAdLaunchView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SYAdLaunchView.m; sourceTree = "<group>"; };
-		A53C1E3B1D2BF3B600FA0460 /* SYAdLaunchViewManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SYAdLaunchViewManager.h; sourceTree = "<group>"; };
-		A53C1E3C1D2BF3B600FA0460 /* SYAdLaunchViewManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SYAdLaunchViewManager.m; sourceTree = "<group>"; };
+		A574E1401D2BF7BE00D53CD5 /* NSData+SDDataCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+SDDataCache.h"; sourceTree = "<group>"; };
+		A574E1411D2BF7BE00D53CD5 /* NSData+SDDataCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+SDDataCache.m"; sourceTree = "<group>"; };
+		A574E1421D2BF7BE00D53CD5 /* NSMutableArray+ForComparing.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableArray+ForComparing.h"; sourceTree = "<group>"; };
+		A574E1431D2BF7BE00D53CD5 /* NSMutableArray+ForComparing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableArray+ForComparing.m"; sourceTree = "<group>"; };
+		A574E1441D2BF7BE00D53CD5 /* NSObject+SandboxOps.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+SandboxOps.h"; sourceTree = "<group>"; };
+		A574E1451D2BF7BE00D53CD5 /* NSObject+SandboxOps.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SandboxOps.m"; sourceTree = "<group>"; };
+		A574E1471D2BF7BE00D53CD5 /* TAAbstractDotView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAAbstractDotView.h; sourceTree = "<group>"; };
+		A574E1481D2BF7BE00D53CD5 /* TAAbstractDotView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAAbstractDotView.m; sourceTree = "<group>"; };
+		A574E1491D2BF7BE00D53CD5 /* TAAnimatedDotView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAAnimatedDotView.h; sourceTree = "<group>"; };
+		A574E14A1D2BF7BE00D53CD5 /* TAAnimatedDotView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAAnimatedDotView.m; sourceTree = "<group>"; };
+		A574E14B1D2BF7BE00D53CD5 /* TADotView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TADotView.h; sourceTree = "<group>"; };
+		A574E14C1D2BF7BE00D53CD5 /* TADotView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TADotView.m; sourceTree = "<group>"; };
+		A574E14D1D2BF7BE00D53CD5 /* TAPageControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAPageControl.h; sourceTree = "<group>"; };
+		A574E14E1D2BF7BE00D53CD5 /* TAPageControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAPageControl.m; sourceTree = "<group>"; };
+		A574E14F1D2BF7BE00D53CD5 /* SDCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDCollectionViewCell.h; sourceTree = "<group>"; };
+		A574E1501D2BF7BE00D53CD5 /* SDCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDCollectionViewCell.m; sourceTree = "<group>"; };
+		A574E1511D2BF7BE00D53CD5 /* SDCycleScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDCycleScrollView.h; sourceTree = "<group>"; };
+		A574E1521D2BF7BE00D53CD5 /* SDCycleScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDCycleScrollView.m; sourceTree = "<group>"; };
+		A574E1531D2BF7BE00D53CD5 /* SYAdLaunchView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SYAdLaunchView.h; sourceTree = "<group>"; };
+		A574E1541D2BF7BE00D53CD5 /* SYAdLaunchView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SYAdLaunchView.m; sourceTree = "<group>"; };
+		A574E1551D2BF7BE00D53CD5 /* UIView+SDExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+SDExtension.h"; sourceTree = "<group>"; };
+		A574E1561D2BF7BE00D53CD5 /* UIView+SDExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+SDExtension.m"; sourceTree = "<group>"; };
+		A574E1571D2BF7BE00D53CD5 /* SYAdLaunchViewManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SYAdLaunchViewManager.h; sourceTree = "<group>"; };
+		A574E1581D2BF7BE00D53CD5 /* SYAdLaunchViewManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SYAdLaunchViewManager.m; sourceTree = "<group>"; };
 		A5D4559B1D2B4C3E003D04A0 /* SYAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SYAppDelegate.h; sourceTree = "<group>"; };
 		A5D4559C1D2B4C3E003D04A0 /* SYAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SYAppDelegate.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -93,7 +93,7 @@
 		A51BF9DB1D24B24A00B9C0F7 /* SYAdLaunchViewDemo */ = {
 			isa = PBXGroup;
 			children = (
-				A53C1E221D2BF3B600FA0460 /* SYAdLaunchView */,
+				A574E13E1D2BF7BE00D53CD5 /* SYAdLaunchView */,
 				A5D4559B1D2B4C3E003D04A0 /* SYAppDelegate.h */,
 				A5D4559C1D2B4C3E003D04A0 /* SYAppDelegate.m */,
 				A51BF9E21D24B24A00B9C0F7 /* ViewController.h */,
@@ -115,49 +115,49 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		A53C1E221D2BF3B600FA0460 /* SYAdLaunchView */ = {
+		A574E13E1D2BF7BE00D53CD5 /* SYAdLaunchView */ = {
 			isa = PBXGroup;
 			children = (
-				A53C1E231D2BF3B600FA0460 /* dependencies */,
-				A53C1E391D2BF3B600FA0460 /* SYAdLaunchView.h */,
-				A53C1E3A1D2BF3B600FA0460 /* SYAdLaunchView.m */,
-				A53C1E3B1D2BF3B600FA0460 /* SYAdLaunchViewManager.h */,
-				A53C1E3C1D2BF3B600FA0460 /* SYAdLaunchViewManager.m */,
+				A574E13F1D2BF7BE00D53CD5 /* dependencies */,
+				A574E1571D2BF7BE00D53CD5 /* SYAdLaunchViewManager.h */,
+				A574E1581D2BF7BE00D53CD5 /* SYAdLaunchViewManager.m */,
 			);
 			path = SYAdLaunchView;
 			sourceTree = "<group>";
 		};
-		A53C1E231D2BF3B600FA0460 /* dependencies */ = {
+		A574E13F1D2BF7BE00D53CD5 /* dependencies */ = {
 			isa = PBXGroup;
 			children = (
-				A53C1E241D2BF3B600FA0460 /* NSData+SDDataCache.h */,
-				A53C1E251D2BF3B600FA0460 /* NSData+SDDataCache.m */,
-				A53C1E261D2BF3B600FA0460 /* NSMutableArray+ForComparing.h */,
-				A53C1E271D2BF3B600FA0460 /* NSMutableArray+ForComparing.m */,
-				A53C1E281D2BF3B600FA0460 /* NSObject+SandboxOps.h */,
-				A53C1E291D2BF3B600FA0460 /* NSObject+SandboxOps.m */,
-				A53C1E2A1D2BF3B600FA0460 /* PageControl */,
-				A53C1E331D2BF3B600FA0460 /* SDCollectionViewCell.h */,
-				A53C1E341D2BF3B600FA0460 /* SDCollectionViewCell.m */,
-				A53C1E351D2BF3B600FA0460 /* SDCycleScrollView.h */,
-				A53C1E361D2BF3B600FA0460 /* SDCycleScrollView.m */,
-				A53C1E371D2BF3B600FA0460 /* UIView+SDExtension.h */,
-				A53C1E381D2BF3B600FA0460 /* UIView+SDExtension.m */,
+				A574E1401D2BF7BE00D53CD5 /* NSData+SDDataCache.h */,
+				A574E1411D2BF7BE00D53CD5 /* NSData+SDDataCache.m */,
+				A574E1421D2BF7BE00D53CD5 /* NSMutableArray+ForComparing.h */,
+				A574E1431D2BF7BE00D53CD5 /* NSMutableArray+ForComparing.m */,
+				A574E1441D2BF7BE00D53CD5 /* NSObject+SandboxOps.h */,
+				A574E1451D2BF7BE00D53CD5 /* NSObject+SandboxOps.m */,
+				A574E1461D2BF7BE00D53CD5 /* PageControl */,
+				A574E14F1D2BF7BE00D53CD5 /* SDCollectionViewCell.h */,
+				A574E1501D2BF7BE00D53CD5 /* SDCollectionViewCell.m */,
+				A574E1511D2BF7BE00D53CD5 /* SDCycleScrollView.h */,
+				A574E1521D2BF7BE00D53CD5 /* SDCycleScrollView.m */,
+				A574E1531D2BF7BE00D53CD5 /* SYAdLaunchView.h */,
+				A574E1541D2BF7BE00D53CD5 /* SYAdLaunchView.m */,
+				A574E1551D2BF7BE00D53CD5 /* UIView+SDExtension.h */,
+				A574E1561D2BF7BE00D53CD5 /* UIView+SDExtension.m */,
 			);
 			path = dependencies;
 			sourceTree = "<group>";
 		};
-		A53C1E2A1D2BF3B600FA0460 /* PageControl */ = {
+		A574E1461D2BF7BE00D53CD5 /* PageControl */ = {
 			isa = PBXGroup;
 			children = (
-				A53C1E2B1D2BF3B600FA0460 /* TAAbstractDotView.h */,
-				A53C1E2C1D2BF3B600FA0460 /* TAAbstractDotView.m */,
-				A53C1E2D1D2BF3B600FA0460 /* TAAnimatedDotView.h */,
-				A53C1E2E1D2BF3B600FA0460 /* TAAnimatedDotView.m */,
-				A53C1E2F1D2BF3B600FA0460 /* TADotView.h */,
-				A53C1E301D2BF3B600FA0460 /* TADotView.m */,
-				A53C1E311D2BF3B600FA0460 /* TAPageControl.h */,
-				A53C1E321D2BF3B600FA0460 /* TAPageControl.m */,
+				A574E1471D2BF7BE00D53CD5 /* TAAbstractDotView.h */,
+				A574E1481D2BF7BE00D53CD5 /* TAAbstractDotView.m */,
+				A574E1491D2BF7BE00D53CD5 /* TAAnimatedDotView.h */,
+				A574E14A1D2BF7BE00D53CD5 /* TAAnimatedDotView.m */,
+				A574E14B1D2BF7BE00D53CD5 /* TADotView.h */,
+				A574E14C1D2BF7BE00D53CD5 /* TADotView.m */,
+				A574E14D1D2BF7BE00D53CD5 /* TAPageControl.h */,
+				A574E14E1D2BF7BE00D53CD5 /* TAPageControl.m */,
 			);
 			path = PageControl;
 			sourceTree = "<group>";
@@ -231,22 +231,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A53C1E3D1D2BF3B600FA0460 /* NSData+SDDataCache.m in Sources */,
-				A53C1E401D2BF3B600FA0460 /* TAAbstractDotView.m in Sources */,
+				A574E1591D2BF7BE00D53CD5 /* NSData+SDDataCache.m in Sources */,
+				A574E15C1D2BF7BE00D53CD5 /* TAAbstractDotView.m in Sources */,
 				A5D4559D1D2B4C3E003D04A0 /* SYAppDelegate.m in Sources */,
-				A53C1E3F1D2BF3B600FA0460 /* NSObject+SandboxOps.m in Sources */,
-				A53C1E481D2BF3B600FA0460 /* SYAdLaunchViewManager.m in Sources */,
-				A53C1E451D2BF3B600FA0460 /* SDCycleScrollView.m in Sources */,
-				A53C1E3E1D2BF3B600FA0460 /* NSMutableArray+ForComparing.m in Sources */,
+				A574E15B1D2BF7BE00D53CD5 /* NSObject+SandboxOps.m in Sources */,
+				A574E1641D2BF7BE00D53CD5 /* SYAdLaunchViewManager.m in Sources */,
+				A574E1621D2BF7BE00D53CD5 /* SYAdLaunchView.m in Sources */,
+				A574E1611D2BF7BE00D53CD5 /* SDCycleScrollView.m in Sources */,
+				A574E15A1D2BF7BE00D53CD5 /* NSMutableArray+ForComparing.m in Sources */,
 				A51BF9E41D24B24A00B9C0F7 /* ViewController.m in Sources */,
-				A53C1E461D2BF3B600FA0460 /* UIView+SDExtension.m in Sources */,
-				A53C1E431D2BF3B600FA0460 /* TAPageControl.m in Sources */,
+				A574E15F1D2BF7BE00D53CD5 /* TAPageControl.m in Sources */,
 				A51BF9E11D24B24A00B9C0F7 /* AppDelegate.m in Sources */,
 				A51BF9DE1D24B24A00B9C0F7 /* main.m in Sources */,
-				A53C1E411D2BF3B600FA0460 /* TAAnimatedDotView.m in Sources */,
-				A53C1E421D2BF3B600FA0460 /* TADotView.m in Sources */,
-				A53C1E441D2BF3B600FA0460 /* SDCollectionViewCell.m in Sources */,
-				A53C1E471D2BF3B600FA0460 /* SYAdLaunchView.m in Sources */,
+				A574E15D1D2BF7BE00D53CD5 /* TAAnimatedDotView.m in Sources */,
+				A574E15E1D2BF7BE00D53CD5 /* TADotView.m in Sources */,
+				A574E1631D2BF7BE00D53CD5 /* UIView+SDExtension.m in Sources */,
+				A574E1601D2BF7BE00D53CD5 /* SDCollectionViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
