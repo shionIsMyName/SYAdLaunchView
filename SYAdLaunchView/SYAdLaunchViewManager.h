@@ -11,7 +11,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "SYAdLaunchView.h"
+#import "dependencies/SYAdLaunchView.h"
 @interface SYAdLaunchViewManager : NSObject
 
 /**
