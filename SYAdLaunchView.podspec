@@ -18,6 +18,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.source_files = 'SYAdLaunchView/*'
+  s.source_files = 'SYAdLaunchView/dependencies/*'
   # s.resources = 'Assets'
 
   # s.ios.exclude_files = 'Classes/osx'
