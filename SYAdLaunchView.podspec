@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "SYAdLaunchView"
-  s.version          = "1.0.0"
+  s.version          = "1.0.1"
   s.summary          = "A obj-c library which getting ads from server and running like a launchImage/obj-c用,网络广告启动图框架,还可实现版本新特性功能"
   s.description      = <<-DESC
                        A obj-c library which can easily help you to achieve a AdLaunchImageView function and a New-Feature function./ 一个obj-c的框架,可以轻松帮你实现请求网络广告，缓存起来当作启动图来用,且还可以轻松帮您实现版本新特性功能。
