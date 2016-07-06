@@ -16,10 +16,8 @@
 
 /**比较两个数组中的内容是否完全一致*/
 +(BOOL) isThisEqual:(NSMutableArray *) arrA to:(NSMutableArray *) arrB{
-    BOOL bol=NO;
     
-    
-    
+    BOOL bol = NO;
     //创建俩新的数组
     NSMutableArray *oldArr = [NSMutableArray array];
     for (NSString *str in arrA) {
@@ -43,7 +41,6 @@
     
     
     if (newArr.count == oldArr.count) {
-        
         bol = YES;
         for (int16_t i = 0; i < oldArr.count; i++) {
             
@@ -56,8 +53,10 @@
                 break;
             }
         }
+       return bol;
+    }else{
+       return bol;
     }
-    return bol;
 }
 
 
